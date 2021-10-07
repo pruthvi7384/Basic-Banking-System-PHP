@@ -9,8 +9,6 @@ username => `Spark Fundation Bank`
 
 password => `admin`
     
-## [Delivery Boy Panal Demo](https://emarket.infinityfreeapp.com/delivery_boy/login)
-    
 Employe Login Cradntial
 
 username => `EM00001`
