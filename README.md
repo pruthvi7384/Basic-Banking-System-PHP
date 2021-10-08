@@ -1,7 +1,6 @@
 # Basic Banking System
-## [Website Demo](https://emarket.infinityfreeapp.com/)
-## [Admin Panal Demo](https://emarket.infinityfreeapp.com/admin/admin_login)
-## [Youtub Video](https://emarket.infinityfreeapp.com/admin/admin_login)
+## [Website Demo](https://pruthvi7384.000webhostapp.com/)
+## [Youtub Video](https://youtu.be/_NfUH89qRxk)
 
 Admin Login Cradntial
 
